@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></div>
 
 --------
-<h5>I'm a Front-End Developer with experience building websites and web applications. I specialize in JavaScript, Html, CSS and React. I also enjoy learning new technologies and making myself better.</h5>
+<h4>I'm a Front-End Developer with experience building websites and web applications. I specialize in JavaScript, Html, CSS and React. I also enjoy learning new technologies and making myself better.</h4>
 
 ### Badges
 
