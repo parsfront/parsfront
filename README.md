@@ -13,3 +13,5 @@
 ### Badges
 
 <a href="http://www.github.com/j4v4script"><img src="https://github-readme-stats.vercel.app/api?username=j4v4script&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="j4v4script's GitHub stats" /></a>
+
+![coding](https://user-images.githubusercontent.com/71150321/174294462-bbd986ac-4b27-426e-b656-2a178413955e.gif)
