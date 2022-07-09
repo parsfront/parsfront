@@ -16,6 +16,6 @@
 
 ### Badges
 
-<a href="http://www.github.com/parsfront"><img src="https://github-readme-stats.vercel.app/api?username=parsfront&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="Ali's GitHub stats" /></a>
+<a href="http://www.github.com/parsfront"><img src="https://github-readme-stats.vercel.app/api?username=parsfront&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="parsfront's GitHub stats" /></a>
 
 ![api-512d36c09662682717108a38bbb5c57d](https://user-images.githubusercontent.com/71150321/174295763-3c2aa25f-903f-4374-8a04-41666ca82a33.gif)
