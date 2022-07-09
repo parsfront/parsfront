@@ -10,12 +10,12 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></div>
 
---------
+---
+
 <h4>I'm a Front-End Developer with experience building websites and web applications. I specialize in JavaScript, Html, CSS and React. I also enjoy learning new technologies and making myself better.</h4>
 
 ### Badges
 
-<a href="http://www.github.com/j4v4script"><img src="https://github-readme-stats.vercel.app/api?username=j4v4script&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="j4v4script's GitHub stats" /></a>
+<a href="http://www.github.com/parsfront"><img src="https://github-readme-stats.vercel.app/api?username=parsfront&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="Ali's GitHub stats" /></a>
 
 ![api-512d36c09662682717108a38bbb5c57d](https://user-images.githubusercontent.com/71150321/174295763-3c2aa25f-903f-4374-8a04-41666ca82a33.gif)
-
