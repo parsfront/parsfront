@@ -6,7 +6,7 @@
 -   Hello Everyone 👋, My name is Ali and I'm from Iran.<br>
 -   I'm SoftWare Engineering Student👨‍💻.<br>
 -   I’m interested in Js/React.<br>
-<div class="img"><img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="j4v4script" />
+<div class="img"><img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="websidan" />
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></div>
 
@@ -16,6 +16,6 @@
 
 ### Badges
 
-<a href="http://www.github.com/parsfront"><img src="https://github-readme-stats.vercel.app/api?username=parsfront&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="parsfront's GitHub stats" /></a>
+<a href="http://www.github.com/websidan"><img src="https://github-readme-stats.vercel.app/api?username=websidan&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="websidan's GitHub stats" /></a>
 
 ![api-512d36c09662682717108a38bbb5c57d](https://user-images.githubusercontent.com/71150321/174295763-3c2aa25f-903f-4374-8a04-41666ca82a33.gif)
